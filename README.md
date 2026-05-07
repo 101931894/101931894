@@ -1,4 +1,4 @@
-#                                                                    *1NSEC*
+#                                                                    *101931894*
 
 
 
@@ -30,7 +30,7 @@
 
       Processador AMD Ryzen 5 4600G with Radeon Graphics @ 3.70GHz   3.70 GHz
       Placa de Video GPU AMD Radeon RX 580 8GB
-      Ram 16 GB DDR4
+    Ram 16 GB DDR4
 
 <a href="https://discord.gg/gremio" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
 </p>
